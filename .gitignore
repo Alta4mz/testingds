@@ -1,0 +1,30 @@
+```
+# Compiled Java class files
+*.class
+
+# Dependencies
+lib/
+libs/
+target/
+
+# IDE
+.gradle/
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+out/
+```
